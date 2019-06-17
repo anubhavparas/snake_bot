@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "transformer")
+set(transformer_MAINTAINER "rohan <rohan@todo.todo>")
+set(transformer_DEPRECATED "")
+set(transformer_VERSION "0.0.0")
+set(transformer_BUILD_DEPENDS "message_generation" "rospy" "roscpp" "std_msgs")
+set(transformer_RUN_DEPENDS "message_runtime" "rospy" "roscpp" "std_msgs")
+set(transformer_BUILDTOOL_DEPENDS "catkin")

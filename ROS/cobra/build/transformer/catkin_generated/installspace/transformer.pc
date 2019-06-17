@@ -1,0 +1,8 @@
+prefix=/home/anshul/catkin_ws/install
+
+Name: transformer
+Description: Description of transformer
+Version: 0.0.0
+Cflags: -I/home/anshul/catkin_ws/install/include
+Libs: -L/home/anshul/catkin_ws/install/lib 
+Requires: message_runtime roscpp rospy std_msgs

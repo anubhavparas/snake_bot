@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anshul/catkin_ws/src/transformer/src/read.c
+unistd.h
+-
+fcntl.h
+-
+termios.h
+-
+stdio.h
+-
+
